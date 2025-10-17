@@ -1,3 +1,26 @@
+## tango_icons_vendor (kilted) - 0.4.1-1
+
+The packages in the `tango_icons_vendor` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted tango_icons_vendor` on `Fri, 17 Oct 2025 08:50:01 -0000`
+
+The `tango_icons_vendor` package was released.
+
+Version of package(s) in repository `tango_icons_vendor`:
+
+- upstream repository: https://github.com/ros-visualization/tango_icons_vendor.git
+- release repository: https://github.com/ros2-gbp/tango_icons_vendor-release.git
+- rosdistro version: `0.4.0-2`
+- old version: `0.4.0-2`
+- new version: `0.4.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## tango_icons_vendor (rolling) - 0.5.1-1
 
 The packages in the `tango_icons_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling tango_icons_vendor` on `Wed, 30 Jul 2025 11:48:31 -0000`
